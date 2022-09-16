@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/14077_WWII_Tank_Germany_Panzer_III_v1_L2.obj-bcb688bc17f257c5934c7be57942b0f9.mesh"
+
+[deps]
+
+files=[ "res://.import/14077_WWII_Tank_Germany_Panzer_III_v1_L2.obj-bcb688bc17f257c5934c7be57942b0f9.mesh" ]
+
+source_file="res://14077_WWII_Tank_Germany_Panzer_III_v1_L2.obj"
+dest_files=[ "res://.import/14077_WWII_Tank_Germany_Panzer_III_v1_L2.obj-bcb688bc17f257c5934c7be57942b0f9.mesh", "res://.import/14077_WWII_Tank_Germany_Panzer_III_v1_L2.obj-bcb688bc17f257c5934c7be57942b0f9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
